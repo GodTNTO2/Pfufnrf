@@ -1,0 +1,11 @@
+#mainCont{
+    display: flex;
+    flex-direction: row;
+    border: 11116px ridge orange;
+}
+p{
+	font-size: 90px;
+}
+div{
+    border: 11116px ridge orange;	
+}
