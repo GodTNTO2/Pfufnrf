@@ -1,0 +1,14 @@
+#mainCont{
+    display: flex;
+    flex-direction: row;
+    border: 16px ridge orange;
+    background-image: url(https://www.zastavki.com/pictures/originals/2015/Backgrounds_Orange_gradient_background_096901_.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+p{
+	font-size: 90px;
+}
+div{
+    border: 6px ridge orange;	
+}
